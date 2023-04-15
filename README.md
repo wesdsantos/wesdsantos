@@ -5,7 +5,7 @@
 
 <div>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=wesdsantos&show_icons=true&theme=tokyonight"/>
-<img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesdsantos&layout=compact&theme=tokyonight"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesdsantos&layout=compact&theme=tokyonight"/>
 </div>
 
 
@@ -28,3 +28,5 @@
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
