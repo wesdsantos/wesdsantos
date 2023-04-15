@@ -1,17 +1,22 @@
-###  Seja bem vindo  me chamo Wesley, conheça um pouco dos meus trabalhos!
+###  🔥 Sejam bem vindos ao meu Github 
 ##
 
-<div align="center">
-  
-   <a href="https://github.com/wesdsantos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wesdsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesdsantos&layout=compact&langs_count=7&theme=dark"/>
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesdsantos&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesdsantos&layout=true&theme=tokyonight)](https://github.com/wesdesantos/github-readme-stats)
+
+##
+##
+<div>
+<img align="center" alt"Wesdsantos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt"Wesdsantos-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt"Wesdsantos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt"Wesdsantos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt"Wesdsantos-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
-  ##
+##
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
